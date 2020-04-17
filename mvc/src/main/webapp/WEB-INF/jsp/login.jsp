@@ -24,6 +24,14 @@
 		});
 	});
 </script>
+<style>
+body {
+	background-image: url("img/login1.jpg");
+	z-index: 1;
+	background-size: cover;
+	background-repeat: repeat-n;
+}
+</style>
 
 <body>
 	<div class="row">
@@ -48,9 +56,7 @@
 				</div>
 				<button type="submit" class="btn-primary">Login</button>
 			</form>
-			<div style="background-image: url('img/login1.jpg');">
-				
-			</div>
+
 
 
 		</div>
